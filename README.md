@@ -1,4 +1,4 @@
-# Document for CS4273 classes
+# Final Project for Class CS4273.CTTT.M11 - Group 5
 
 Participants:
 
