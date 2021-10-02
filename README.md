@@ -2,9 +2,10 @@
 
 Participants:
 
-- Leader: [Name - ID]
-- Member: [Name - ID]
-- Member: [Name - ID]
+- Leader: Lê Đỗ Văn Bằng-19521236
+- Member: Thái Nguyễn Huy Hoàng-19521545
+- Member: Triều Quốc Đạt-19521356
+- Member: Nguyễn Hữu Đạt-19521335
 
 
 Task management table: [here](https://trello.com/b/N0dTGGkV) [Replace by your public board later]
