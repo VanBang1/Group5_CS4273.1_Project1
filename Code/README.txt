@@ -1,3 +1,4 @@
 -This code run in visual studio 2019
 -Not contain file ( BE, FE, Test and .gitignore)
+-Run file (Group5_QLCGP.sln)
 -Link divre file scoure code: https://drive.google.com/drive/folders/1FaDw_gF5BRTzDUTKig7FNY4uDXvMgpR0?usp=sharing
