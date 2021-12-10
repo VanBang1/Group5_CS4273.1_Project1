@@ -5,6 +5,9 @@ Participants:
 - Leader: Lê Đỗ Văn Bằng-19521236
 - Member: Thái Nguyễn Huy Hoàng-19521545
 
+-Link diver file source code project: https://drive.google.com/drive/folders/1FaDw_gF5BRTzDUTKig7FNY4uDXvMgpR0?usp=sharing
+-Link youtue record report member: https://youtu.be/7yoE9SPxQ3U
+-Link dirver video record (incase link youtube die): https://drive.google.com/file/d/1w2Lc2YoXZ5lvgJ-6kRA4kg1XZpyRS9ZL/view?usp=sharing
 
 Task management table: [here](https://trello.com/b/A9IweHH7/cnpm-quanlycaygiapha)
 
